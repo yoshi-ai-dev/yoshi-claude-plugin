@@ -1,0 +1,18 @@
+{
+  "name": "yoshi",
+  "displayName": "Yoshi",
+  "version": "1.0.0",
+  "description": "Yoshi turns your words into financial action. Ask about your cash, spending, and investments, and prepare transfers, trades, and automations from Claude. You review each action and approve it with your passkey in the Yoshi app.",
+  "author": {
+    "name": "Yoshi AI Inc",
+    "url": "https://yoshi.ai/"
+  },
+  "homepage": "https://yoshi.ai/",
+  "license": "Apache-2.0",
+  "keywords": ["finance", "banking", "investing", "personal-finance"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://docs.yoshi.ai/guides/mcp",
+  "supportUrl": "https://yoshi.ai/support/",
+  "privacyPolicyUrl": "https://yoshi.ai/privacypolicy/",
+  "termsOfServiceUrl": "https://yoshi.ai/termsofservice/"
+}
